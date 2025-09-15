@@ -128,12 +128,12 @@ python env_check.py
 Paste your terminal output here:
 
 ```
-<Run Output: paste the lines printed by env_check.py>
-```
 Name: Jahnavi Naik
 Python: 3.11.1
 NumPy: 2.3.3
-Goal: Build something small every week and demo it
+Goal: Build something small every week and demo it.
+```
+
 ---
 
 ## Hard Mode (Optional, Scored) — CLI + Persistence + Tests
