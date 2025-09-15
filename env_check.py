@@ -6,7 +6,7 @@ import sys, pathlib
 import numpy as np
 
 # TODO: set your actual name here
-NAME = "REPLACE_ME"
+NAME = "Jahnavi Naik"
 
 def first_line_of_goals() -> str:
     p = pathlib.Path("goals.txt")
